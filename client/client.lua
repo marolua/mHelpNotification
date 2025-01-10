@@ -35,3 +35,6 @@ end, false)
 RegisterCommand('closehelpnotif', function(source, args)
     MaroCloseHelpNotification()
 end, false)
+
+
+print('mHelpNotificationUI loaded')
