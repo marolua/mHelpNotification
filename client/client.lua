@@ -35,3 +35,5 @@ end, false)
 RegisterCommand('closehelpnotif', function(source, args)
     MaroCloseHelpNotification()
 end, false)
+
+--Commentaire pour vous voici mon discord https://discord.gg/Tpv5gcQA
